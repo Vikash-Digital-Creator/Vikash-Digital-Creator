@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Vikash Verma! 👋
 
-<!--
-**Vikash-Digital-Creator/Vikash-Digital-Creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI Filmmaker & Digital Marketing Strategist
+I blend creativity with Artificial Intelligence to build high-converting ads and cinematic experiences.
 
-Here are some ideas to get you started:
+- 🎥 **AI Filmmaking:** Expert in AI video generation and editing.
+- 📈 **Digital Marketing:** Data-driven strategies for brand growth.
+- 🤖 **AI Ads Maker:** Creating next-gen advertisements using AI tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack
+- **AI Tools:** Midjourney, Runway Gen-2, Pika Labs, ElevenLabs.
+- **Marketing:** Meta Ads, Google Analytics, SEO.
+- **Design:** Canva Pro, Adobe Premiere Pro.
+
+---
+
+### 📂 Top Projects
+- [AI-Short-Film-Project](Link-yahan-dalein)
+- [Automated-Marketing-Scripts](Link-yahan-dalein)
